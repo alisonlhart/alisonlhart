@@ -1,6 +1,12 @@
-### Hi there! I'm Alison, a computer scientist with a lot of love for Python and even more enthusiasm for automation. 
+### Hi there! I'm Alison.
 
-Check out my projects here, or you can reach me at contact@alisonlhart.com if you want to chat. 
+
+![alt text](https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/welcome.gif)
+
+## More projects.... loading.....
+
+
+![alt text](https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif)
 
 Thanks for stopping by! 
 
