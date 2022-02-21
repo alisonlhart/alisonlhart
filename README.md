@@ -1,18 +1,17 @@
-<img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/welcome.gif" width="250" height="250">
+### Hey there, thanks for checking in. I'm Alison. 
 
-### Hi there! I'm Alison. 
+### More projects are coming soon.....
+
+<img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif" width="350" height="250">
 
 
-### More projects.... coming soon.....
-
-<img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif" width="250" height="250">
-
-- 🔭 I’m currently working on ansible-navigator, located ---> [ansible-navigator](https://github.com/ansible/ansible-navigator/)
+🔭 I’m currently working on ansible-navigator, located @ ---> [ansible-navigator](https://github.com/ansible/ansible-navigator/)
 
 Thanks for stopping by! 
 
-Ali
+/ali (or allhart on slack)
 
+she/her
 
 
 <!--
