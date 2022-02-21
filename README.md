@@ -4,7 +4,7 @@
 
 ### More projects.... coming soon.....
 
-<img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif" width="100" height="100">
+<img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif" width="50" height="50">
 
 - 🔭 I’m currently working on ansible-navigator, located ---> [ansible-navigator](https://github.com/ansible/ansible-navigator/)
 
