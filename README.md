@@ -1,12 +1,12 @@
-### Hi there! I'm Alison.
-
+### Hi there! I'm Alison. 
 
 ![alt text](https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/welcome.gif)
 
-## More projects.... loading.....
-
+### More projects.... coming soon.....
 
 ![alt text](https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif)
+
+- 🔭 I’m currently working on ansible-navigator, located ---> [ansible-navigator](https://github.com/ansible/ansible-navigator/)
 
 Thanks for stopping by! 
 
