@@ -1,6 +1,6 @@
-### Hi there! I'm Alison. 
-
 <img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/welcome.gif" width="250" height="250">
+
+### Hi there! I'm Alison. 
 
 
 ### More projects.... coming soon.....
