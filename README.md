@@ -9,8 +9,9 @@
 
 Thanks for stopping by! 
 
-/ali (or allhart on slack)
-(she/her)
+/ali 
+_(slack: @allhart)
+(she/her)_
 
 
 <!--
