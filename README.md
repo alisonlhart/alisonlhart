@@ -10,8 +10,7 @@
 Thanks for stopping by! 
 
 /ali (or allhart on slack)
-
-she/her
+(she/her)
 
 
 <!--
