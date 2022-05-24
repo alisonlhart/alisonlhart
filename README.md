@@ -11,7 +11,7 @@ Thanks for stopping by!
 
 /ali  (she/her)
 
-(slack, matrix/irc: @allhart)
+_(slack, matrix/irc: @allhart)_
 
 <!--
 **alisonlhart/alisonlhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
