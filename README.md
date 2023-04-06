@@ -5,7 +5,7 @@
 <img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif" width="350" height="250">
 
 
-🔭 I’m currently working on ansible-navigator, located @ ---> [ansible-navigator](https://github.com/ansible/ansible-navigator/)
+🔭 I’m currently contributing to ansible-lint, located @ ---> [ansible-lint](https://github.com/ansible/ansible-lint/) 
 
 Thanks for stopping by! 
 
