@@ -1,13 +1,8 @@
 ### Hey there, thanks for checking in. I'm Alison. 
 
-### More projects are coming soon.....
+I’m a member of the Ansible DevTools team, primarily working on Python tools. See the full list of tools [here](https://github.com/ansible/team-devtools/tree/main?tab=readme-ov-file#python-devtools-project-dependencies)!
 
-<img src="https://github.com/alisonlhart/alisonlhart/blob/main/resources/images/giphy.gif" width="350" height="250">
-
-
-🔭 I’m currently contributing to ansible-lint, located @ ---> [ansible-lint](https://github.com/ansible/ansible-lint/) 
-
-Thanks for stopping by! 
+Thanks for stopping by!
 
 /ali  (she/her)
 
