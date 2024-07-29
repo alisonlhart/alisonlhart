@@ -1,6 +1,6 @@
 ### Hey there, thanks for checking in. I'm Alison. 
 
-I’m a member of the Ansible DevTools team, primarily working on Python tools. See the full list of tools [here](https://github.com/ansible/team-devtools/tree/main?tab=readme-ov-file#python-devtools-project-dependencies)!
+I’m a member of the Ansible DevTools team, primarily working on Python tools and the Ansible VSCode Extension. See the full list of tools [here](https://github.com/ansible/team-devtools/tree/main?tab=readme-ov-file#python-devtools-project-dependencies)!
 
 Thanks for stopping by!
 
